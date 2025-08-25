@@ -359,6 +359,7 @@ button:hover{
     width: 170px;
     display: flex;
     justify-content: space-between;
+    z-index: 99;
 }
 
 .home-sci a {
